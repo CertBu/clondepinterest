@@ -13,10 +13,10 @@ este proyecto es un clon de la interfaz de usuario de Pinterest creado puramente
   +  **CSS3**: Para el diseño y estilo. incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
   +  **Google Fonts**: Para fuentes personalizadas.
 ### Vista Previa del proyecto 
-(Pendiente)
+![Demo](/imagenes/Captura.jpeg)
 
 ### Licencia 
-Distribuido bajo la Licencia MIT. Consulta 'LICENSE' para obtener más información.
+Distribuido bajo la Licencia MIT. Consulta  `LICENSE` para obtener más información.
 
 ### Contacto
 Vania Cano: [Mi Instagram](https://www.instagram.com/certbu/)
