@@ -13,7 +13,8 @@ este proyecto es un clon de la interfaz de usuario de Pinterest creado puramente
   +  **CSS3**: Para el diseño y estilo. incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
   +  **Google Fonts**: Para fuentes personalizadas.
 ### Enlace de la visualizacion
-[Clon de Pinterest]((https://clondepinterest-omega.vercel.app/))
+[Clon Pinterest](https://clondepinterest-omega.vercel.app/)
+
 ### Vista Previa del proyecto 
 ![Demo](/imagenes/Captura.jpeg)
 
